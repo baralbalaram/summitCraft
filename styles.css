@@ -22,7 +22,7 @@
 
 body {
   margin: 0;
-  background: var(--bg);
+  background: var(--bg) url('images/paper-texture.svg');
   font-family: 'Work Sans', sans-serif;
   color: var(--text);
 }
@@ -40,7 +40,7 @@ a { text-decoration: none; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: var(--bg);
+  background: transparent;
   border-bottom: 1px solid var(--border);
   flex-wrap: wrap;
   gap: 16px;
@@ -84,6 +84,18 @@ a { text-decoration: none; }
 .eyebrow { color: var(--accent); font-weight: 600; font-size: 14px; letter-spacing: 0.04em; text-transform: uppercase; }
 .page-hero h1 { margin: 0; font-size: 42px; font-weight: 600; color: var(--text); line-height: 1.2; }
 .page-hero p { margin: 0; font-size: 17px; color: #4A443A; line-height: 1.6; }
+
+/* Photo backgrounds on hero banners — each page sets --hero-img; photos live in images/ */
+.hero-photo {
+  background:
+    linear-gradient(rgba(31, 27, 22, 0.62), rgba(31, 27, 22, 0.74)),
+    var(--hero-img) center / cover no-repeat;
+  background-color: var(--footer-bg);
+}
+.page-hero.hero-photo { padding: 104px 64px 88px; }
+.hero-photo h1 { color: #FFFFFF; }
+.hero-photo p { color: rgba(255, 255, 255, 0.88); }
+.hero-photo .eyebrow { color: #F2B79C; }
 
 /* Trust badges */
 .trust-badges {

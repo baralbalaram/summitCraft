@@ -48,6 +48,7 @@ Then visit the printed local URL (e.g. http://localhost:8000).
 - **Contact details**: footer shows `[hello@summitcraft.in]` and `[+91 XXXXX XXXXX]` — replace with real values.
 - **Social links**: Instagram/YouTube icons currently link to `#` — replace with real handles once available.
 - **Gallery images**: the `.gtile` placeholder boxes (e.g. "Album photo", "Site brochure") are meant to be replaced with real photos — swap the `<div class="gtile">` elements for `<img>` tags once you have images.
+- **Banner photos**: each page's top banner uses a free stock photo from `images/` — replace a file with your own photo (same file name) to swap it. See `images/README.md`.
 - **Materials/finish chips** on the Photographers page are marked "[Final options to confirm with production]".
 - **City/location** is intentionally not shown anywhere on the site (per earlier decision).
 
