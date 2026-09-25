@@ -1,4 +1,4 @@
-# Flycatcher Prints — Website
+# SummitCraft — Website
 
 A static, no-build website: plain HTML, CSS and vanilla JS. No framework, no npm install required to run it.
 
@@ -45,7 +45,7 @@ Then visit the printed local URL (e.g. http://localhost:8000).
 
 - **Pricing**: `script.js` has a `priceMap` object with dummy values — replace with real pricing once set, or wire the quote form to a backend/API instead of the current front-end-only preview.
 - **Turnaround times**: shown inline on each product card (e.g. "Typical turnaround: 5–7 days") — confirm real numbers with production.
-- **Contact details**: footer shows `[hello@flycatcherprints.in]` and `[+91 XXXXX XXXXX]` — replace with real values.
+- **Contact details**: footer shows `[hello@summitcraft.in]` and `[+91 XXXXX XXXXX]` — replace with real values.
 - **Social links**: Instagram/YouTube icons currently link to `#` — replace with real handles once available.
 - **Gallery images**: the `.gtile` placeholder boxes (e.g. "Album photo", "Site brochure") are meant to be replaced with real photos — swap the `<div class="gtile">` elements for `<img>` tags once you have images.
 - **Materials/finish chips** on the Photographers page are marked "[Final options to confirm with production]".
