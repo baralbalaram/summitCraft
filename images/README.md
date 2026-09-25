@@ -10,6 +10,7 @@ Each page's top banner uses one photo from this folder. To use your own photo,
 | `photographers-hero.jpg` | Photographers | Wedding rings on an open book |
 | `builders-hero.jpg` | Builders | Architectural plans and blueprints on a desk |
 | `commercial-hero.jpg` | Commercial | Letterpress printing machine |
+| `pharma-hero.jpg` | Pharma | Tablets in blister packs |
 | `quote-hero.jpg` | Get a Quote | Stack of blank paper |
 | `paper-texture.svg` | All pages | Faint paper grain behind the plain sections (not a photo) |
 
@@ -33,3 +34,6 @@ which allows commercial use without attribution:
 - builders-hero.jpg: https://www.pexels.com/photo/6615235/
 - commercial-hero.jpg: https://www.pexels.com/photo/1440504/
 - quote-hero.jpg: https://www.pexels.com/photo/9869063/
+
+pharma-hero.jpg is from Wikimedia Commons, released under CC0 (public domain, no attribution needed):
+https://commons.wikimedia.org/wiki/File:Pill_3.jpg

@@ -8,6 +8,7 @@ A static, no-build website: plain HTML, CSS and vanilla JS. No framework, no npm
 - `personal.html` — Personal & Gifts (B2C)
 - `photographers.html` — For Photographers
 - `builders.html` — For Real Estate & Builders
+- `pharma.html` — For Pharma Manufacturers
 - `commercial.html` — Commercial Printing
 - `quote.html` — Get a Quote (working form: FAQ accordion, dummy price preview, submit confirmation)
 - `styles.css` — all styling, colors and fonts as CSS variables at the top
@@ -50,6 +51,7 @@ Then visit the printed local URL (e.g. http://localhost:8000).
 - **Gallery images**: the `.gtile` placeholder boxes (e.g. "Album photo", "Site brochure") are meant to be replaced with real photos — swap the `<div class="gtile">` elements for `<img>` tags once you have images.
 - **Banner photos**: each page's top banner uses a free stock photo from `images/` — replace a file with your own photo (same file name) to swap it. See `images/README.md`.
 - **Materials/finish chips** on the Photographers page are marked "[Final options to confirm with production]".
+- **Pharma page**: fill in the ISO standard on the "ISO Certified" badge (e.g. ISO 9001:2015) and the `[X] days` turnarounds. Only add GMP, Braille or other compliance claims once you can show evidence of them to a buyer's QA team. No customer logos or testimonials yet; add them once you have a pharma customer's permission.
 - **City/location** is intentionally not shown anywhere on the site (per earlier decision).
 
 ## Form behavior (currently front-end only)
