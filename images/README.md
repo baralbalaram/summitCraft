@@ -14,6 +14,19 @@ Each page's top banner uses one photo from this folder. To use your own photo,
 | `quote-hero.jpg` | Get a Quote | Stack of blank paper |
 | `paper-texture.svg` | All pages | Faint paper grain behind the plain sections (not a photo) |
 
+The home page's **Featured work** gallery uses four square photos. These are stock
+photos for now; replace them with photos of your own finished jobs (same file names)
+as soon as you have them, since the section presents them as your work.
+
+| File | Gallery tile | Current stock photo shows |
+|---|---|---|
+| `featured-album.jpg` | Album | Linen-covered wedding album |
+| `featured-brochure.jpg` | Brochure | Open printed booklet, overhead |
+| `featured-packaging.jpg` | Packaging | Printed gift box with window |
+| `featured-wall-art.jpg` | Wall art | Framed print on a brick wall |
+
+For gallery photos, a **square** image around **900 × 900 px** and under ~200 KB works best.
+
 ## Tips for your own photos
 
 - **Landscape**, roughly **1920 × 900 px**. Wider is fine; the banner crops to fit.
@@ -37,3 +50,10 @@ which allows commercial use without attribution:
 
 pharma-hero.jpg is from Wikimedia Commons, released under CC0 (public domain, no attribution needed):
 https://commons.wikimedia.org/wiki/File:Pill_3.jpg
+
+The featured-*.jpg gallery photos are CC0 (public domain, no attribution needed), via rawpixel:
+
+- featured-album.jpg: https://www.rawpixel.com/image/6045912/free-public-domain-cc0-photo
+- featured-brochure.jpg: https://www.rawpixel.com/image/3301627/free-photo-image-advertisement-book-brochure
+- featured-packaging.jpg: https://www.rawpixel.com/image/3284268/free-photo-image-macaron-box-dessert-gift
+- featured-wall-art.jpg: https://www.rawpixel.com/image/5915820/image-frame-light-public-domain
