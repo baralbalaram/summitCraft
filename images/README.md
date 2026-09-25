@@ -27,6 +27,25 @@ as soon as you have them, since the section presents them as your work.
 
 For gallery photos, a **square** image around **900 × 900 px** and under ~200 KB works best.
 
+The **Personal & Gifts**, **Photographers** and **Builders** pages each have a
+four-photo gallery with the same kind of stock placeholders. Tall tiles are 3:4 portrait
+(about 720 × 960 px); square tiles are about 800 × 800 px.
+
+| File | Page | Current stock photo shows |
+|---|---|---|
+| `personal-photo-book.jpg` | Personal & Gifts (tall) | Open photo book with a printed photo |
+| `personal-canvas.jpg` | Personal & Gifts | Framed photos on a living room wall |
+| `personal-gift-box.jpg` | Personal & Gifts | Gift box with kraft ribbon |
+| `personal-greeting-card.jpg` | Personal & Gifts (tall) | Printed greeting cards |
+| `photographers-album-spread.jpg` | Photographers (tall) | Wedding couple's hands with rings |
+| `photographers-leatherette.jpg` | Photographers | Maroon hardcover book |
+| `photographers-canvas.jpg` | Photographers | Wedding couple with bouquet |
+| `photographers-minibooks.jpg` | Photographers (tall) | Instant photo prints beside a camera |
+| `builders-brochure.jpg` | Builders (tall) | Architecture magazine showing floor plans |
+| `builders-hoarding.jpg` | Builders | Construction site board with project rendering |
+| `builders-floor-plan.jpg` | Builders | Colour house floor plan |
+| `builders-sales-kit.jpg` | Builders (tall) | Key in a new home's front door |
+
 ## Tips for your own photos
 
 - **Landscape**, roughly **1920 × 900 px**. Wider is fine; the banner crops to fit.
@@ -57,3 +76,18 @@ The featured-*.jpg gallery photos are CC0 (public domain, no attribution needed)
 - featured-brochure.jpg: https://www.rawpixel.com/image/3301627/free-photo-image-advertisement-book-brochure
 - featured-packaging.jpg: https://www.rawpixel.com/image/3284268/free-photo-image-macaron-box-dessert-gift
 - featured-wall-art.jpg: https://www.rawpixel.com/image/5915820/image-frame-light-public-domain
+
+The page gallery photos (the personal-, photographers- and builders- files other than the -hero ones) are CC0 (public domain, no attribution needed):
+
+- personal-photo-book.jpg: https://www.rawpixel.com/image/5971363/free-public-domain-cc0-photo
+- personal-canvas.jpg: https://www.rawpixel.com/image/5914616/photo-image-frames-public-domain-living-room
+- personal-gift-box.jpg: https://www.rawpixel.com/image/3305305/free-photo-image-gift-box
+- personal-greeting-card.jpg: https://www.rawpixel.com/image/5915240/image-public-domain-alphabet-free
+- photographers-album-spread.jpg: https://www.rawpixel.com/image/3283606/free-photo-image-wedding-couple-hand
+- photographers-leatherette.jpg: https://www.rawpixel.com/image/5958887/free-public-domain-cc0-photo
+- photographers-canvas.jpg: https://www.rawpixel.com/image/3303061/free-photo-image-love-apparel-art
+- photographers-minibooks.jpg: https://www.rawpixel.com/image/5916447/image-aesthetic-public-domain-technology
+- builders-brochure.jpg: https://www.rawpixel.com/image/5959666/free-public-domain-cc0-photo
+- builders-hoarding.jpg: https://www.flickr.com/photos/104736837@N03/10934538325
+- builders-floor-plan.jpg: https://www.rawpixel.com/image/6331470/vector-background-sticker-public-domain
+- builders-sales-kit.jpg: https://www.rawpixel.com/image/5921868/photo-image-public-domain-house-home
