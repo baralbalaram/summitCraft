@@ -256,4 +256,42 @@ textarea.input { resize: vertical; min-height: 90px; }
   .steps { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .field-row { grid-template-columns: 1fr; }
   .hero h1, .page-hero h1 { font-size: 32px; }
+  .site-header, .hero, .page-hero, .page-hero.hero-photo, .trust-badges, .returning-strip,
+  .section, .section-tight, .closing-cta, .site-footer, .quote-wrap { padding-left: 32px; padding-right: 32px; }
+}
+
+/* Phones — 16px side gutter, single-column cards */
+@media (max-width: 600px) {
+  .site-header, .hero, .page-hero, .page-hero.hero-photo, .trust-badges, .returning-strip,
+  .section, .section-tight, .closing-cta, .site-footer, .quote-wrap { padding-left: 16px; padding-right: 16px; }
+
+  .site-header { padding-top: 14px; padding-bottom: 14px; gap: 12px; }
+  .nav { gap: 10px 18px; }
+  .nav a { font-size: 14px; }
+  .nav .cta { padding: 8px 16px; }
+
+  .hero { padding-top: 64px; padding-bottom: 56px; }
+  .page-hero.hero-photo { padding-top: 64px; padding-bottom: 56px; }
+  .hero h1 { font-size: 30px; }
+  .page-hero h1 { font-size: 27px; }
+  .hero p, .page-hero p { font-size: 15px; }
+  .eyebrow { font-size: 12px; }
+
+  .section { padding-top: 56px; padding-bottom: 56px; }
+  .section-tight { padding-top: 40px; }
+  .section h2 { font-size: 26px; }
+  .section-inner { gap: 28px; }
+
+  .card-grid, .item-grid, .item-grid.cols-4 { grid-template-columns: 1fr; }
+  .card { padding: 22px; }
+  .item { padding: 20px; }
+
+  .faq-q { font-size: 16px; gap: 12px; }
+  .closing-cta { padding-top: 48px; padding-bottom: 48px; }
+  .closing-cta h2 { font-size: 24px; }
+  .site-footer { padding-top: 40px; }
+
+  .quote-wrap { padding-top: 32px; padding-bottom: 48px; }
+  .form-card { padding: 20px; }
+  .steps { padding: 20px 12px; gap: 16px 8px; }
 }
